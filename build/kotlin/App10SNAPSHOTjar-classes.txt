@@ -1,0 +1,1 @@
+/Users/apietruczuk/IdeaProjects/App/build/classes/kotlin/main/MainKt.class
